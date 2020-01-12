@@ -1,8 +1,0 @@
-Alias /scoreboard /var/www/scoreboard
-<Directory /var/www/scoreboard>
-	DirectoryIndex summary.html
-	Options None
-	Order allow,deny
-	Allow from all
-	Require all granted
-</Directory>

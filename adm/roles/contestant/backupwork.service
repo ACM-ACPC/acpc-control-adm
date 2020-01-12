@@ -1,5 +1,0 @@
-[Unit]
-Description=Contestant work backup
-
-[Service]
-ExecStart=/usr/sbin/backupwork
